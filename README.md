@@ -5,6 +5,9 @@
 - geometri v pici
 - sterace
 - doplnit klimu
+- jedno svetlo sviti do ofsajdu
+- chybí šrouvek
+- chybí plexi
 
 
 LED interiér + silná led v kufru ✅ 
